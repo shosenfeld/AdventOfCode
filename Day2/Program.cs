@@ -4,7 +4,7 @@
 
 using System.Text.RegularExpressions;
 
-var inputLines = File.ReadAllLines(@"C:\#Repositories\AdventOfCode\Day2\Day2\input.txt");
+var inputLines = File.ReadAllLines(@"C:\#Repositories\AdventOfCode\Day2\input.txt");
 var maxRed = 12;
 var maxGreen = 13;
 var maxBlue = 14;
